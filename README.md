@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lordbaah
-- 👀 I’m interested in ... learning web design 
+- 👀 I’m interested in ... learning web development
 - 🌱 I’m currently learning ... html and css 
 - 💞️ I’m looking to collaborate on ... any project
 - 📫 How to reach me ...
