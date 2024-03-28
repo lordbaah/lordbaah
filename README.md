@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lordbaah
 - 👀 I’m interested in ... learning web development
-- 🌱 I’m currently learning ... html and css 
+- 🌱 I’m currently learning ... html and css and javaScript
 - 💞️ I’m looking to collaborate on ... any project
 - 📫 How to reach me ...
 
