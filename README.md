@@ -4,7 +4,7 @@ Hi 👋 My name is Lord Baah
 FrontEnd Developer
 ------------------
 
-Hi there! I'm a frontend developer passionate about building clean, responsive web interfaces. Currently diving deep into React to enhance my skills in creating dynamic and interactive user experiences. Always eager to learn and collaborate on projects!
+Hi there! I'm a frontend developer passionate about building clean, responsive web interfaces. Currently diving deep into React JS and express JS to enhance my skills in creating dynamic and interactive user experiences. Always eager to learn and collaborate on projects!
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [lordbaah2@gmail.com](mailto:lordbaah2@gmail.com)
