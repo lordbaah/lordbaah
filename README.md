@@ -8,8 +8,9 @@ Hi there! I'm a frontend developer passionate about building clean, responsive w
 
 * 🌍  I'm based in Ghana
 * ✉️  You can contact me at [lordbaah2@gmail.com](mailto:lordbaah2@gmail.com)
-* 🧠  I'm learning ReactJs, NodeJs and AWS Cloud Computing
+* 🧠  I'm learning NodeJS ans ExpressJS
 * 🤝  I'm open to collaborating on any FrontEnd Project
+* Certified AWS Solutions Architect
 
 ### Skills
 
